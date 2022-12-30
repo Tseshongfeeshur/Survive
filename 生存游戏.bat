@@ -1,3 +1,5 @@
+::=========务必使用ANSI编码=========
+
 :Load
 @mode 54,20
 @echo off
@@ -990,15 +992,16 @@ goto 1
 
 :ver
 cls
-mode 54,24
+mode 54,27
 color 0a
 title RyGame - 生存游戏 -- 版本信息
 echo                    RyGame - 生存游戏
 echo 版本：v1.5
-echo 赞助：一粒永远煮不熟的米，某不知名的仌寇某，LYX，QZY，Be Loved
+echo 赞助：一粒永远煮不熟的米, 某不知名的仌寇某, LYX, QZY,
+echo       Be Loved
 echo 更新日志：
 echo       v1.5
-echo         改变窗口大小。
+echo         改变窗口大小，更新赞助列表，赞助列表去真实化。
 echo       v1.4
 echo         更新赞助列表。
 echo       v1.3
