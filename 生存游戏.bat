@@ -990,7 +990,7 @@ goto 1
 
 :ver
 cls
-mode 54,22
+mode 54,24
 color 0a
 title RyGame - 生存游戏 -- 版本信息
 echo                    RyGame - 生存游戏
