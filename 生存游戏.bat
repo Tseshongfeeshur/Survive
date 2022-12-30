@@ -994,8 +994,8 @@ mode 54,24
 color 0a
 title RyGame - 生存游戏 -- 版本信息
 echo                    RyGame - 生存游戏
-echo 版本：v1.3
-echo 赞助：寇禹，梁雅萱，秦梓雁，王越，张馨然
+echo 版本：v1.5
+echo 赞助：一粒永远煮不熟的米，某不知名的仌寇某，LYX，QZY，Be Loved
 echo 更新日志：
 echo       v1.5
 echo         改变窗口大小。
